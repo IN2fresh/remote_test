@@ -2,6 +2,6 @@
 
 int main(int argc, char const *argv[])
 {
-    printf("I am Bob king devplus\n");
+    printf("I am Bob king main\n");
     return 0;
 }
